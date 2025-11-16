@@ -1,0 +1,1 @@
+This projects checks the distention folder and looks for todays date and if its there it will check the header of the content of file and if its as same as its own databsae in the script it will copy the folder to the usb drive named "D:\" (it can be changed). It is good for companies that u want to autoamte copy for some stuffs without ITs
