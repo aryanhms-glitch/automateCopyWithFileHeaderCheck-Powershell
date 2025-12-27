@@ -8,5 +8,5 @@ this project was wrote in Powershell.
 
 
 *It needs admin rights if the OS is joined to a domain*
-it will automate some of your stuff if there is a person in your company that keeps calling you ( IT ) for coping documents 
+
 
