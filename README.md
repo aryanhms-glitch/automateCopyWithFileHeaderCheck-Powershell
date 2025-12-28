@@ -7,6 +7,6 @@ this project was wrote in Powershell.
 6-the authorized folder will be copied in the usb drive
 
 
-*It needs admin rights if the OS is joined to a domain*
+
 
 
